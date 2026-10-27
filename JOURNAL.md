@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) ([open the project](https://halflife.hackclub.com/projects/cmvf3adll0ark01rc67f7igzp)). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> probably can add some cool loghts
+> this is my custom midi keyboard, following the tutorial, however ma,ing my own design. This project taught me lots about PCB routing and schematic to pcb conversion.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
